@@ -1,0 +1,12 @@
+.album{
+    background: url(steambackground.jpg)no-repeat center center fixed;
+    background-size: cover;
+    height: 100%;
+    overflow: hidden;
+  }
+
+.return {
+    padding: 0.5em;
+    background-color: aliceblue;
+    width: fit-content
+}
